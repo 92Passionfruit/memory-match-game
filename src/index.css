@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+  margin: 0;
+  text-align: center;
+  background: #5e6d2e;
+  color: #bcb900;
+  font-family: Averia Libre, sans-serif;
+  font-size: 1.8em;
+}
